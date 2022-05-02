@@ -28,7 +28,7 @@
   },
   "homepage": "https://github.com/xzar90/compress-create-react-app#readme",
   "devDependencies": {
-    "jest": "^27.3.1",
+    "jest": "^28.0.3",
     "prettier": "^2.4.1",
     "husky": "^7.0.4"
   },
